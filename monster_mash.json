@@ -1,0 +1,207 @@
+{
+    "party 1": {"type": "Werewolf Bar Mitzvah", "werewolves": 20, "vampires": 0, "witches": 0},
+    "party 2": {"type": "Blood Bath", "werewolves": 5, "vampires": 20, "witches": 0},
+    "party 3": {"type": "Spooky Mixer", "werewolves": 0, "vampires": 10, "witches": 9},
+    "party 4": {"type": "Doggy Disco", "werewolves": 33, "vampires": 0, "witches": 0},
+    "party 5": {"type": "Dance under the Moonlight", "werewolves": 15, "vampires": 5, "witches": 30},
+    "monsters 1": [
+       {"name": "Charlie", "kind": "ghost", "spookiness": 0, "undead?": false},
+       {"name": "Lucy", "kind": "witch", "spookiness": 0, "undead?": false},
+       {"name": "Sally", "kind": "skeleton", "spookiness": 0, "undead?": false},
+       {"name": "Linus", "kind": "pumpkin", "spookiness": 0, "undead?": false}
+    ],
+    "monsters 2": [
+       {"name": "Viago", "kind": "vampire", "spookiness": 1, "undead?": true},
+       {"name": "Vladislav", "kind": "vampire", "spookiness": 1, "undead?": true},
+       {"name": "Deacon", "kind": "vampire", "spookiness": 1, "undead?": true},
+       {"name": "Petyr", "kind": "vampire", "spookiness": 1, "undead?": true}
+    ],
+    "monsters 3": [
+       {"name": "Jack", "kind": "skeleton", "spookiness": 2, "undead?": true},
+       {"name": "Sally", "kind": "doll", "spookiness": 0, "undead?": false},
+       {"name": "Oogie", "kind": "bag", "spookiness": 3, "undead?": false},
+       {"name": "Zero", "kind": "ghost", "spookiness": 1, "undead?": true},
+       {"name": "Mayor", "kind": "politician", "spookiness": 3, "undead?": false}
+    ],
+    "monsters 4": [
+       {"name": "Sarah", "kind": "witch", "spookiness": 2, "undead?": true},
+       {"name": "Mary", "kind": "witch", "spookiness": 2, "undead?": true},
+       {"name": "Winifred", "kind": "witch", "spookiness": 3, "undead?": true},
+       {"name": "Binx", "kind": "cat", "spookiness": 0, "undead?": false},
+       {"name": "Billy", "kind": "zombie", "spookiness": 1, "undead?": true}
+    ],
+    "monsters 5": [
+       {"name": "Herman", "kind": "creature", "spookiness": 1, "undead?": true},
+       {"name": "Lily", "kind": "vampire", "spookiness": 1, "undead?": true},
+       {"name": "Grandpa", "kind": "vampire", "spookiness": 0, "undead?": true},
+       {"name": "Marilyn", "kind": "human", "spookiness": 0, "undead?": false},
+       {"name": "Eddie", "kind": "werewolf", "spookiness": 0, "undead?": false}
+    ],
+    "monsters 6": [
+
+    ],
+    "costumes 1": [
+       {"label": "Pirate", "price": 20, "sizes": ["S", "M"]},
+       {"label": "Zombie", "price": 30, "sizes": ["S", "M", "L"]},
+       {"label": "Ghost", "price": 40, "sizes": ["S", "M", "L"]},
+       {"label": "Pirate Zombie Ghost", "price": 90, "sizes": ["S"]}
+    ],
+    "costumes 2": [
+       {"label": "Witch", "price": 35, "sizes": []},
+       {"label": "Wizard", "price": 20, "sizes": []},
+       {"label": "Wardrobe", "price": 50, "sizes": []}
+    ],
+    "costumes 3": [
+       {"label": "Mummy", "price": 5, "sizes": ["S", "M", "L"]},
+       {"label": "Phantom", "price": 8, "sizes": ["S", "M", "L"]},
+       {"label": "Person", "price": 0, "sizes": ["S", "M", "L"]},
+       {"label": "Ghost", "price": 8, "sizes": ["S", "M", "L"]}
+    ],
+    "costumes 4": [
+       {"label": "Spiderman", "price": 60, "sizes": ["S", "M"]},
+       {"label": "Thor", "price": 80, "sizes": ["L"]},
+       {"label": "Iron Man", "price": 70, "sizes": ["M", "L"]},
+       {"label": "Captain America", "price": 60, "sizes": ["S", "M", "L"]},
+       {"label": "Thanos", "price": 70, "sizes": ["L"]}
+    ],
+    "costumes 5": [
+       {"label": "Sorcerer", "price": 30, "sizes": ["M"]},
+       {"label": "Rogue", "price": 40, "sizes": ["M"]},
+       {"label": "Knight", "price": 30, "sizes": ["S"]},
+       {"label": "Dragon", "price": 20, "sizes": ["S"]}
+    ],
+    "costumes 6": [
+
+    ],
+    "graves 1": [
+       {"name": "Jim Jones", "message": "I TOLD YOU I WAS SICK"},
+       {"name": "Tim Tones", "message": "I WAS HOPING FOR A PYRAMID"},
+       {"name": "Bim Bones", "message": "Here lies an atheist.\nAll dressed up and no place to go."},
+       {"name": "Kim Kones", "message": "GO AWAY - I'M ASLEEP"},
+       {"name": "Nim Nones", "message": "Dang, it's dark down here."}
+    ],
+    "graves 2": [
+       {"name": "Mel Blanc", "message": "THAT'S ALL FOLKS"},
+       {"name": "Leslie Nielsen", "message": "Let 'er rip"},
+       {"name": "Frank Sinatra", "message": "The best is yet to come"},
+       {"name": "Rodney Dangerfield", "message": "There goes the neighborhood"},
+       {"name": "Edgar Allen Poe", "message": "Quoth the Raven, 'Nevermore'"}
+    ],
+    "graves 3": [
+       {"name": "John Yeast", "message": "Pardon me for not rising."},
+       {"name": "Jason Vorhees", "message": "1946-1957\n1980-1981\n1985-1986\netc."},
+       {"name": "Mozart", "message": "Shh... The maestro is decomposing."},
+       {"name": "???", "message": "YOUR NAME HERE."}
+    ],
+    "graves 4": [
+
+    ],
+    "treats 1": [
+       {"name": "Candy Corn", "chocolate?": false, "calories": 140, "quantity": 19},
+       {"name": "M&Ms", "chocolate?": true, "calories": 73, "quantity": 17},
+       {"name": "Candy Corn", "chocolate?": false, "calories": 140, "quantity": 19},
+       {"name": "Snickers", "chocolate?": true, "calories": 70, "quantity": 2},
+       {"name": "Candy Corn", "chocolate?": false, "calories": 140, "quantity": 19}
+    ],
+    "treats 2": [
+       {"name": "Snickers", "chocolate?": true, "calories": 70, "quantity": 2},
+       {"name": "Snickers", "chocolate?": true, "calories": 70, "quantity": 2},
+       {"name": "Snickers", "chocolate?": true, "calories": 70, "quantity": 2},
+       {"name": "Snickers", "chocolate?": true, "calories": 70, "quantity": 2}
+    ],
+    "treats 3": [
+       {"name": "Sweet Tarts", "chocolate?": false, "calories": 50, "quantity": 8},
+       {"name": "Snickers", "chocolate?": true, "calories": 70, "quantity": 2},
+       {"name": "Candy Apple", "chocolate?": false, "calories": 214, "quantity": 1},
+       {"name": "M&Ms", "chocolate?": true, "calories": 73, "quantity": 17}
+    ],
+    "treats 4": [
+       {"name": "Tootsie Roll Pop", "chocolate?": false, "calories": 60, "quantity": 1},
+       {"name": "Sweet Tarts", "chocolate?": false, "calories": 50, "quantity": 8},
+       {"name": "Candy Corn", "chocolate?": false, "calories": 140, "quantity": 19},
+       {"name": "Candy Apple", "chocolate?": false, "calories": 214, "quantity": 1}
+    ],
+    "treats 5": [
+       {"name": "Candy Corn", "chocolate?": false, "calories": 140, "quantity": 19},
+       {"name": "M&Ms", "chocolate?": true, "calories": 73, "quantity": 17},
+       {"name": "Pencil", "chocolate?": false, "calories": 0, "quantity": 1}
+    ],
+    "treats 6": [
+
+    ],
+    "media 1": [
+       {"name": "Nightmare before Christmas", "kind": "movie", "duration": 76},
+       {"name": "Cabin in the Woods", "kind": "movie", "duration": 95},
+       {"name": "Nightmare on Elm Street", "kind": "movie", "duration": 101},
+       {"name": "Scream", "kind": "movie", "duration": 111}
+    ],
+    "media 2": [
+       {"name": "Monster Mash", "kind": "song", "duration": 3},
+       {"name": "Werewolves of London", "kind": "song", "duration": 3},
+       {"name": "Thunderstorms", "kind": "song", "duration": 120},
+       {"name": "Time Warp", "kind": "song", "duration": 6},
+       {"name": "Thriller", "kind": "song", "duration": 14}
+    ],
+    "media 3": [
+       {"name": "Castlevania", "kind": "game", "duration": 180},
+       {"name": "Eternal Darkness", "kind": "game", "duration": 840},
+       {"name": "Silent Hill", "kind": "game", "duration": 420}
+    ],
+    "media 4": [
+       {"name": "Addam's Family", "kind": "song", "duration": 2},
+       {"name": "Addam's Family", "kind": "movie", "duration": 94},
+       {"name": "Addam's Family", "kind": "game", "duration": 120}
+    ],
+    "media 5": [
+
+    ],
+    "brewing 1": [
+       {"effect": "Fire Breathing Potion", "time required": 5, "ingredients": [
+           {"name": "Spider Webs", "rare?": false},
+           {"name": "Ant Hill", "rare?": false},
+           {"name": "Dragon Egg", "rare?": false}
+       ]},
+       {"effect": "Ice Breathing Potion", "time required": 6, "ingredients": [
+           {"name": "Spider Webs", "rare?": false},
+           {"name": "Ant Hill", "rare?": false},
+           {"name": "Moon Blooms", "rare?": false}
+       ]},
+       {"effect": "Sweet Breathing Potion", "time required": 4, "ingredients": [
+           {"name": "Spider Webs", "rare?": false},
+           {"name": "Ant Hill", "rare?": false},
+           {"name": "Candy Leaf", "rare?": true}
+       ]}
+    ],
+    "brewing 2": [
+       {"effect": "Embiggening Potion", "time required": 8, "ingredients": [
+           {"name": "Dream Petal", "rare?": true},
+           {"name": "Hens Teeth", "rare?": true}
+       ]},
+       {"effect": "Shrinking Potion", "time required": 8, "ingredients": [
+           {"name": "Dream Petal", "rare?": true},
+           {"name": "Ant Hill", "rare?": false}
+       ]},
+       {"effect": "Staying-the-Same Potion", "time required": 0, "ingredients": [
+           {"name": "Dream Petal", "rare?": true}
+       ]}
+    ],
+    "brewing 3": [
+       {"effect": "Delicious Tea", "time required": 4, "ingredients": [
+           {"name": "Candy Leaf", "rare?": true},
+           {"name": "Moon Blooms", "rare?": false}
+       ]},
+       {"effect": "Deadly Tea", "time required": 4, "ingredients": [
+           {"name": "Candy Leaf", "rare?": true},
+           {"name": "Moon Blooms", "rare?": false},
+           {"name": "Red Nightshade", "rare?": false}
+       ]},
+       {"effect": "Delirious Tea", "time required": 4, "ingredients": [
+           {"name": "Candy Leaf", "rare?": true},
+           {"name": "Moon Blooms", "rare?": false},
+           {"name": "Werewolf Heart", "rare?": true}
+       ]}
+    ],
+    "brewing 4": [
+
+    ]
+}
